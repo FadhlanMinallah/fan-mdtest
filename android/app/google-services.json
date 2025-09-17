@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84522726569",
+    "project_id": "fan-technical-mdtest",
+    "storage_bucket": "fan-technical-mdtest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84522726569:android:83bb50d056d9dc1f8be5b8",
+        "android_client_info": {
+          "package_name": "com.fan.technical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCx28OyTbGJTHJ0sjqucta3Y0niDxT3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
